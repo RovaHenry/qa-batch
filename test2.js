@@ -1,1 +1,0 @@
-//ini isi test2.js
